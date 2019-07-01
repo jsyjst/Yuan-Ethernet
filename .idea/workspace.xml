@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0e71d42c-d0c0-476e-a680-4c666bcec51f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dialog/HelpDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dialog/HelpDialog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ethernet/Ethernet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ethernet/Ethernet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/frame/ShowFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frame/ShowFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/ShowFramebyTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ShowFramebyTable.java" afterDir="false" />
@@ -19,7 +18,9 @@
     <session id="1619169348">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.26" value="1" />
@@ -28,7 +29,7 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -46,12 +47,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="java" value="7892" />
+          <entry key="java" value="7989" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7892" />
+          <entry key="JAVA" value="7989" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -62,20 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ethernet/Ethernet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-89">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/frame/ShowFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6552">
-              <caret line="276" column="49" selection-start-line="276" selection-start-column="49" selection-end-line="276" selection-end-column="49" />
+            <state relative-caret-position="325">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,10 +73,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/frame/ShowFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="206" column="39" lean-forward="true" selection-start-line="206" selection-start-column="39" selection-end-line="206" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/ShowFramebyTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6350">
-              <caret line="262" column="38" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="38" />
+            <state relative-caret-position="300">
+              <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,8 +148,8 @@
         <option value="$PROJECT_DIR$/src/dialog/AboutDialog.java" />
         <option value="$PROJECT_DIR$/src/dialog/HelpDialog.java" />
         <option value="$PROJECT_DIR$/src/test/ShowFramebyTable.java" />
-        <option value="$PROJECT_DIR$/src/frame/ShowFrame.java" />
         <option value="$PROJECT_DIR$/src/ethernet/Ethernet.java" />
+        <option value="$PROJECT_DIR$/src/frame/ShowFrame.java" />
       </list>
     </option>
   </component>
@@ -164,8 +165,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-40" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="350" />
+    <option name="y" value="40" />
     <option name="width" value="1240" />
     <option name="height" value="1040" />
   </component>
@@ -190,20 +192,14 @@
               <item name="Ethernet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ethernet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dialog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ethernet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ethernet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ethernet" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,16 +257,16 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2774799" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2855228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2295302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,10 +308,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ShowFramebyTable.java">
+    <entry file="file://$PROJECT_DIR$/src/ethernet/Ethernet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6350">
-          <caret line="262" column="38" selection-start-line="262" selection-start-column="38" selection-end-line="262" selection-end-column="38" />
+        <state relative-caret-position="325">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -342,20 +338,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ethernet/Ethernet.java">
+    <entry file="file://$PROJECT_DIR$/src/frame/ShowFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="135">
+          <caret line="206" column="39" lean-forward="true" selection-start-line="206" selection-start-column="39" selection-end-line="206" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frame/ShowFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ShowFramebyTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6552">
-          <caret line="276" column="49" selection-start-line="276" selection-start-column="49" selection-end-line="276" selection-end-column="49" />
+        <state relative-caret-position="300">
+          <caret line="90" column="22" selection-start-line="90" selection-start-column="22" selection-end-line="90" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
